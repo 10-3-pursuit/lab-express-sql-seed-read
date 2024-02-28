@@ -100,7 +100,7 @@ Ie, if your first song in an array (array index of 0) has an `id` of 4, `/songs/
 ### Bonuses
 
 - Go back and try any of the previous Bonuses
-- Start building a create-react-app front end
+- Start building a [vite front end](https://github.com/10-3-pursuit/lab-tuner-frontend)
 
 ### SUPER Bonus
 

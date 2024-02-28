@@ -3,7 +3,7 @@
 ## Getting Started
 
 - keep the back-end running, open a new tab and navigate out of the back-end repository
-- `npx create-react-app@5 tuner-front-end`
+- use the [Tuner Starter](https://github.com/10-3-pursuit/lab-tuner-frontend) to create the frontend of the application.
 
 > _Note_: Remember to `git add`, `git commit` and `git push` regularly
 
